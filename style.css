@@ -813,6 +813,40 @@ section{
     background-position:right center;
 }
 
+/* wendigo */
+
+.wendigo-banner{
+
+    background:
+    linear-gradient(
+    rgba(0,0,0,0.70),
+    rgba(0,0,0,0.88)
+    ),
+
+    url('assets/img/thumb12.png');
+
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position:right center;
+}
+
+/* As bruxas de Salem */
+
+.salem-banner{
+
+    background:
+    linear-gradient(
+    rgba(0,0,0,0.70),
+    rgba(0,0,0,0.88)
+    ),
+
+    url('assets/img/thumb13.png');
+
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position:right center;
+}
+
 .story-banner-content h1{
     font-size:72px;
     margin-bottom:20px;
